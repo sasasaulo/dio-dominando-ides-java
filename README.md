@@ -28,4 +28,21 @@ Botão direito no código-source-generate... -> cria os códigos automaticamente
 
 ### Atalhos
 
+digita main + enter -> cria o método main da classe
+digita sout + enter -> System.out.println()
+Ctrl + Shift + F10 -> rodar o programa
+Alt + Insert -> criar os códigos automaticamente
+Ctrl + (Shift) + / -> comentar bloco de código
+Ctrl + Alt + o -> limpar imports não utilizados
+Alt + Enter - Importar
+Ctrl + Alt + l -> Arrumar/indentar
+Ctrl + d -> duplica a linha
+Ctrl + Shift + seta -> muda a linha de lugar (para cima ou para baixo)
+[Mais atalhos](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea) 
+
+
+### Macetes
+VCS-Enable Version... - 
+
+
 
