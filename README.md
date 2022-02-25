@@ -28,7 +28,7 @@ Botão direito no código-source-generate... -> cria os códigos automaticamente
 
 ### Atalhos
 
-digita main + enter -> cria o método main da classe
+digita main (ou psvm) + enter -> cria o método main da classe
 digita sout + enter -> System.out.println()
 Ctrl + Shift + F10 -> rodar o programa
 Alt + Insert -> criar os códigos automaticamente
@@ -42,7 +42,5 @@ Ctrl + Shift + seta -> muda a linha de lugar (para cima ou para baixo)
 
 
 ### Macetes
-VCS-Enable Version... - 
-
-
+VCS(git)-Enable Version... - github
 
